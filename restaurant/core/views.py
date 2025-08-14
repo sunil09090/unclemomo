@@ -182,3 +182,5 @@ def change_password(request):
 Authentication part: End
 ===================
 '''
+
+print
